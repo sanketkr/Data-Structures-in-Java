@@ -1,3 +1,3 @@
-package com.company.Dsa;
+package Dsa;
 public class Queue {
 }

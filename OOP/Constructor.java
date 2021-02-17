@@ -1,4 +1,4 @@
-package com.company.OOP;
+package OOP;
 //constructors are used to initialize some code at object creation time only.
 
 //constructor vs method

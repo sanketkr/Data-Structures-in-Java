@@ -1,4 +1,4 @@
-package com.company.OOP;
+package OOP;
 //classes doesn't take any space, objects take space in memory.
 //any java file will contain only one public class and its name match file name.
 // only static methods can be called in static main method

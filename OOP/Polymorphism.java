@@ -1,4 +1,4 @@
-package com.company.OOP;
+package OOP;
 //abhi ke liye bas itna yaad rakh -> two types hote hain
 // run time poly-> overriding - slower execution   |  compile time poly -> overloading  -faster
 //https://youtu.be/eIO9dNLkhDQ      -> navin reddy

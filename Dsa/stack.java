@@ -1,4 +1,6 @@
-package com.company.Dsa;//most operation on stack is constant time
+package Dsa;
+
+//most operation on stack is constant time
 class Arraystack{
    private int[] a;
     private int size;

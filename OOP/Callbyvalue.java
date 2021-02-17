@@ -2,7 +2,7 @@
 //when dogs d1 is passed to swap then "a" actually now refers to d1 it can change value of d1 object from inside
 
 
-package com.company.OOP;
+package OOP;
 class Dogs{
     int legs;
 }

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="803e1fef-9274-4732-aae6-8bf068a0823a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AnagramMysolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnagramMysolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dsa/BalancedParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dsa/BalancedParenthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dsa/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dsa/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dsa/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dsa/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dsa/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dsa/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dsa/stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dsa/stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Abstraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Callbyvalue.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Callbyvalue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/StaticKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/inherit2.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/inherit2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tostringmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tostringmethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/love/ArrayReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfdsd.java" beforeDir="false" afterPath="$PROJECT_DIR$/sfdsd.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oceH09zawVq4Lg5o21PgGfVm2k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Dsa.stack" />
+      <module name="Data-structures-in-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.stack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="803e1fef-9274-4732-aae6-8bf068a0823a" name="Default Changelist" comment="" />
+      <created>1613590219939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613590219939</updated>
+    </task>
+    <servers />
+  </component>
+</project>

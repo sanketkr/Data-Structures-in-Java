@@ -1,4 +1,4 @@
-package com.company.OOP;
+package OOP;
 //static is related to classes, it is run once only(when class is loaded)(memory management) and is present in all objects.
 //https://www.youtube.com/watch?v=qRCEdWQ0f4Q&t=651s
 //constructor memory is initialized when obj is created but static when class is loaded

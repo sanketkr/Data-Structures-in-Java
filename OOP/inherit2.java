@@ -1,2 +1,2 @@
-package com.company.OOP;
+package OOP;
 

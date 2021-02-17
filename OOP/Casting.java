@@ -4,7 +4,7 @@
 
 //when an obbject is created it has two parts first part reference which is declaration of the object type
 //second is memory alloted to it in the heap which is of default constructor size or whatever the constructor is. -> https://youtu.be/V-PQvKUtSY8
-package com.company.OOP;
+package OOP;
 
 class inherits1{
     String info="super";

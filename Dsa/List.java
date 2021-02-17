@@ -1,4 +1,4 @@
-package com.company.Dsa;
+package Dsa;
 class Linkedlist {
     Node head;
 

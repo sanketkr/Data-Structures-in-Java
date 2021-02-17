@@ -1,4 +1,4 @@
-package com.company.love;
+package love;
 
 public class ArrayReverse {
     public static void main(String[] args) {

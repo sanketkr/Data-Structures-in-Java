@@ -1,4 +1,4 @@
-package com.company.OOP;
+package OOP;
 //abstraction means reducing complexity, show what can be done not how it is done
 //Abstract function must have abstract class, abstract class can have abstract and concrete methods
 //abstract method must be overridden in child class

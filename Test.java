@@ -1,4 +1,3 @@
-package com.company;
 // { Driver Code Starts
 //Initial template for Java
 

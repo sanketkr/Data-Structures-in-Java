@@ -1,4 +1,3 @@
-package com.company;
 //worst case O(n2)
 public class BubbleSort {
 

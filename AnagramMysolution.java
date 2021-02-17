@@ -1,4 +1,3 @@
-package com.company;
 //this program wont work with different cases, beware!
 public class AnagramMysolution {
     public static void main(String[] args) {

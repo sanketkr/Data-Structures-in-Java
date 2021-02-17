@@ -1,4 +1,4 @@
-package com.company.OOP;
+package OOP;
 class inherit1{
     inherit1(int a){
         System.out.println("this is a constructor and it will not be inherited to subclass  "+a);
