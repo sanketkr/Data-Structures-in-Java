@@ -1,5 +1,4 @@
 
-import java.util.Scanner;
 
 //"" -> string    ''-> char
 // string in java is an object not an array of character ending in /0 (null) as in c.So we cannot access
