@@ -1,4 +1,4 @@
-package com.company.CollectionFramework;
+package CollectionFramework;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
