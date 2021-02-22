@@ -1,4 +1,4 @@
-package Dsa;
+package dsa;
 import java.util.Stack;
 
 //there might be some unhandlede cornor cases in this solution

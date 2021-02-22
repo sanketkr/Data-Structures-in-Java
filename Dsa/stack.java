@@ -1,4 +1,4 @@
-package Dsa;
+package dsa;
 
 //most operation on stack is constant time
 class Arraystack{
